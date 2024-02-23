@@ -12,7 +12,7 @@ img_folder='...path to original images..'
 imo_folder='path to where you want to save resized images'
 features_folder='...path to folder to save extracted features..'
 %%
-
+addpath(genpath('..path to "functions" directory provided in github repo'));
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%% resize images to have a width of 400

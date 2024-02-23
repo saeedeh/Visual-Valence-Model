@@ -13,3 +13,4 @@ Visual Valence Model (VVM) is a random forest regression model that predicts vis
 **features**: This directory contains estimated visual features for the images in the database of N=7984 images (large-db), N=500 abstract paintings (abstract-art), and the synthesized images (synthesized).
 
 
+**functions**: This directory contains matlab functions used in Estimate_features.m. Its path should be added to the beginning of Estimate_features script.
